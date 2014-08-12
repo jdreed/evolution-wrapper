@@ -1,3 +1,9 @@
+debathena-evolution-wrapper (10.0.15) unstable; urgency=low
+
+  * Give up on Evolution (Trac: #1228)
+
+ -- Jonathan Reed <jdreed@mit.edu>  Tue, 12 Aug 2014 12:44:04 -0400
+
 debathena-evolution-wrapper (10.0.14) unstable; urgency=low
 
   * Add git-buildpackage configuration
